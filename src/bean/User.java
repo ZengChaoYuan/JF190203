@@ -5,6 +5,8 @@ public class User {
 	private String userName;
 	private int sex;
 
+	
+	
 	public User(int userId, String userName, int sex) {
 		super();
 		this.userId = userId;
